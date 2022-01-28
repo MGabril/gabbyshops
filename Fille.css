@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+  
+    
+  }
+
+  marquee h1 {
+    color: floralwhite;
+  }
+  .NavButton{ 
+    background-color:darkblue;
+  color:white;
+  }
+
+  #myHeader {
+    background-color:yellowgreen;
+    color: black;
+    padding: 3px;
+    text-align: center;
+  }
+   p {
+   color: yellow;
+
+  }
